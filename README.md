@@ -9,6 +9,44 @@ Well, not really. This program does not contain any injection or anything simila
 So there is not really a risk of being banned as it is not a cheat and can not be used as a cheat.
 However MTA Staff can simply decide they do not want this in their game and blacklist this program like they have done with some netlimiters, at that point I will not support this program and won't try to bypass their protection by anyway.
 
+# Config Settings
+![code](
+[Crosshair]
+color = 0,255,0
+style = lines
+size = 15
+line_width = 2
+
+[Handguns]
+keys = 1, q
+offset_x = 57
+offset_y = -109
+
+[SMGs]
+keys = 6
+offset_x = 57
+offset_y = -109
+
+[Shotguns]
+keys = 2
+offset_x = 57
+offset_y = -109
+
+[Assault]
+keys = 4
+offset_x = 57
+offset_y = -109
+
+[Rifle]
+keys = 3,e
+offset_x = 0
+offset_y = 0
+
+[Heavy]
+keys = 5, l
+offset_x = 0
+offset_y = 0)
+
 # Screenshots
 
 While holding sniper:

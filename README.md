@@ -11,5 +11,6 @@ While holding sniper:
 ![image](https://github.com/user-attachments/assets/71af233c-472a-4453-a79b-181fc102b63b)
 
 
-While holding shotgun and most weapons.
+While holding shotgun and most weapons:
+
 ![image](https://i.imgur.com/2dL2guO.png)    

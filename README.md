@@ -10,10 +10,10 @@ So there is not really a risk of being banned as it is not a cheat and can not b
 However MTA Staff can simply decide they do not want this in their game and blacklist this program like they have done with some netlimiters, at that point I will not support this program and won't try to bypass their protection by anyway.
 
 # Config Settings
-![code](
+```
 [Crosshair]
-color = 0,255,0
-style = lines
+color = 0,255,0 # any rgb color
+style = lines # lines/circle
 size = 15
 line_width = 2
 
@@ -46,6 +46,7 @@ offset_y = 0
 keys = 5, l
 offset_x = 0
 offset_y = 0)
+```
 
 # Screenshots
 
